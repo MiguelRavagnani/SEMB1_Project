@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MEMS)(type KiCad)(uri ${KIPRJMOD}/MEMS.pretty)(options "")(descr ""))
+)
