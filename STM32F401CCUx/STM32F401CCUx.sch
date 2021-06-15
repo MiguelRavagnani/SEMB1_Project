@@ -502,7 +502,7 @@ U 1 1 607B4359
 P 1150 1350
 F 0 "F1" V 925 1350 50  0000 C CNN
 F 1 "250mA" V 1016 1350 50  0000 C CNN
-F 2 "Fuse:Fuseholder_Blade_Mini_Keystone_3568" H 1200 1150 50  0001 L CNN
+F 2 "Fuse_holder:FUSE-TH_L22.6-W9.0" H 1200 1150 50  0001 L CNN
 F 3 "~" H 1150 1350 50  0001 C CNN
 	1    1150 1350
 	0    1    1    0   
@@ -1518,13 +1518,13 @@ F 3 "~" H 10050 7950 50  0001 C CNN
 	1    10050 7950
 	1    0    0    -1  
 $EndComp
-Text GLabel 9850 7950 0    50   Input ~ 0
-PA8
 Text GLabel 9850 8050 0    50   Input ~ 0
+PA8
+Text GLabel 9850 7950 0    50   Input ~ 0
 PA9
-Text GLabel 9850 8150 0    50   Input ~ 0
-PA10
 Text GLabel 9850 7850 0    50   Input ~ 0
+PA10
+Text GLabel 9850 8150 0    50   Input ~ 0
 PWM
 $Comp
 L power:GNDA #PWR0125
