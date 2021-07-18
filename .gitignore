@@ -34,6 +34,9 @@ _saved_*
 # CPL data generated from PCB
 *.pos
 
+# 3D models
+.3D_models_library/
+
 # Drill files
 *.drl
 
